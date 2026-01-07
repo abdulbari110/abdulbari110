@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>I'm a BS Computer Science graduate and a software developer at **Verge Systems**.  <br>I specialize in web development using PHP and JavaScript**.<br><br>I enjoy writing clean, efficient code and continuously expanding my technical skill set.<br>
+<br><br>I'm a BS Computer Science graduate and a software developer at **Verge Systems**.  <br>I specialize in web development using PHP and JavaScript**.<br><br>I enjoy writing clean, efficient code and continuously expanding my technical skill set.<br>
 
 
 ## 🌐 Socials:
